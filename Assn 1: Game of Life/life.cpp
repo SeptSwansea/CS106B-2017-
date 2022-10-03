@@ -125,11 +125,11 @@ int neicount_wrap(Grid<char> &grid,int x,int y){
                     if(grid[x+i][y+j]=='X'){
                         count++;
                 }
-             }else{
+                }else{
                     if(grid[(x+i+row)%row][(y+j+col)%col]=='X'){
                         count++;
                     }
-                 }
+                }
             }
          }
      }
