@@ -5,7 +5,7 @@ Course Website:https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1176/
 
 Assn 1: Game of Life ✔
 
-Assn 2: Serafini
+Assn 2: Serafini✔
 
 Assn 3: Recursion
 
