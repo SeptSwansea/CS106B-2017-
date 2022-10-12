@@ -74,6 +74,8 @@ void TreeHelper(GWindow& gw, double x, double y, double size, int order,int angl
     if(order==0){
         return;
     }else{
+        // The reference coordinate does not change. The angle should be adjusted.
+        //about GPoint:https://web.stanford.edu/dept/cs_edu/resources/cslib_docs/GPoint.html
         GPoint GP1=gw.drawPolarLine(x,y,size,angle-45);
         GPoint GP2=gw.drawPolarLine(x,y,size,angle-30);
         GPoint GP3=gw.drawPolarLine(x,y,size,angle-15);
