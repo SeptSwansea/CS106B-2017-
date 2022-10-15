@@ -7,7 +7,7 @@ Assn 1: Game of Life ✔
 
 Assn 2: Serafini✔
 
-Assn 3: Recursion
+Assn 3: Recursion✔
 
 Assn 4: Boggle!
 
