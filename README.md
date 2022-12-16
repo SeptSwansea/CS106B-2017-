@@ -9,7 +9,7 @@ Assn 2: Serafini✔
 
 Assn 3: Recursion✔
 
-Assn 4: Boggle!
+Assn 4: Boggle!✔
 
 Assn 5: Patient Queue
 
